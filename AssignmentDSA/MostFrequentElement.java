@@ -1,4 +1,4 @@
-package set;
+package AssignmentDSA;
 /*Input:
 8
 1 3 2 5 2 1 9 2
